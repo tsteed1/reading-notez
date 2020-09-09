@@ -6,7 +6,7 @@
   * Embrace and overcome your fears of trying new things
   * Continue to be inspired to do better!
  
-### My name is Travis Steed. I enjoy all outdoor activites, playing games with friends, and be able to create and craft different beers. [travis's website](https://github.com/tsteed1/reading-notez/edit/master/README.md) @octocat :+1:
+### My name is Travis Steed. I enjoy all outdoor activites, playing games with friends, and be able to create and craft different beers. [travis's website](https://github.com/tsteed1/reading-notez/edit/master/README.md) :+1:
 
 # My notes #
 

@@ -8,9 +8,9 @@
  
 ### My name is Travis Steed. I enjoy all outdoor activites, playing games with friends, and be able to create and craft different beers. [travis's website](https://github.com/tsteed1/reading-notez/edit/master/README.md) 
 
-## My notes ##
+# My notes #
 
-### *Using emoji ###
+### Using emoji ###
 You can add emoji to your writing by typing :EMOJICODE:.
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:

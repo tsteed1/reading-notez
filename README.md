@@ -4,3 +4,4 @@
   1. Keep your head up and persevere, even when you fail over and over. As Thomas Edison once said,*"I have not failed. I've just found 10,000 ways that won't work."*
   2. Embrace and overcome your fears of trying new things
   3.
+

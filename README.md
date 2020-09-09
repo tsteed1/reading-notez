@@ -6,4 +6,4 @@
   2. Embrace and overcome your fears of trying new things
   3. Continue to be inspired to do better!
  
-### My name is Travis Steed. I enjoy all outdoor activites, playing games with friends, and be able to create and craft different beers. [travis's website](https://github.com/tsteed1/reading-notez/edit/master/README.md) ###
+### My name is Travis Steed. I enjoy all outdoor activites, playing games with friends, and be able to create and craft different beers. [travis's website](https://github.com/tsteed1/reading-notez/edit/master/README.md)

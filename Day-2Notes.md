@@ -1,5 +1,4 @@
 # Day-2 Notes
-
 ## What is a Text Editor?
   -A text editor is a piece of software that you download and install on
 your computer, or you access online through your web browser, that
@@ -12,13 +11,11 @@ important tools you can use as an aspiring web developer.
     - nice variety of themes 
     - and the ability to choose from a healthy selection of
         extensions available when you need them.
-        
 ## Whats the difference between a Text Editor and IDEs you may ask?
   - A Text editor, does what it says, it edits text, but also manages text and files where as a IDE(Integrated Development Environment) is a Text Editor too 
     but this also does filer manager, a compiler, and a dubugger all in one.
   - Just think of a simple Notepad document cared to a Microsoft Outlook doc. you can much more in outlook compared to notepad, such as and email client, 
     a calendar, task manager, and so on.
-
 ## What exactly is Linux?
   - Linux is an extensionless system
     -This one can sometimes be hard to get your head around but as you work through the sections it will start to make more sense. 
@@ -27,6 +24,6 @@ important tools you can use as an aspiring web developer.
       - file.exe - an executable file, or program.
       - file.txt - a plain text file.
       -file.png, file.gif, file.jpg - an image.
-      
-
-  
+white_check_mark
+eyes
+raised_hands

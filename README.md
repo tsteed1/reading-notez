@@ -10,3 +10,4 @@
 - [Reflection and Discussion](Reflection-Discussion.md)
 - [Ch18 notes](Ch18-Process&Design.md)
 - [Day 2 notes](Day-2Notes.md)
+- [Ch11 Notes](Ch11notes.md)

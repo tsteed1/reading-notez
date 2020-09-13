@@ -12,3 +12,4 @@
 - [Day 2 notes](Day-2Notes.md)
 - [Ch11 Notes](Ch11notes.md)
 - [Dynamic webpages with JavaScript](Dynamic-javascript.md)
+- [read06b](read06b.md)

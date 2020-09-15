@@ -13,3 +13,4 @@
 - [Ch11 Notes](Ch11notes.md)
 - [Dynamic webpages with JavaScript](Dynamic-javascript.md)
 - [read06b](read06b.md)
+- [Programming with JavaScript](Read07.md)

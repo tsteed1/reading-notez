@@ -14,3 +14,4 @@
 - [Dynamic webpages with JavaScript](Dynamic-javascript.md)
 - [read06b](read06b.md)
 - [Programming with JavaScript](Read07.md)
+- [Operators and Loops](read08.md)

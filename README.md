@@ -22,3 +22,4 @@
 - [Images, Color, Text](201_read05.md)
 - [JS Object Literals](201_read06.md)
 - [HTML Tables; JS COntructor Functions](201_read07.md)
+- [More CSS Layout](201_read08.md)

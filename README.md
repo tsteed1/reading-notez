@@ -24,3 +24,4 @@
 - [HTML Tables; JS COntructor Functions](201_read07.md)
 - [More CSS Layout](201_read08.md)
 - [Forms and events](201_read09.md)
+- [Debugging](201_read10.md)

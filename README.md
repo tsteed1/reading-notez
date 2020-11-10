@@ -26,5 +26,6 @@
 - [Forms and events](201_read09.md)
 - [Debugging](201_read10.md)
 - [Audio, video and images](201_read11.md)
-- 
+- [Docs for the HTML](201_read12.md)
 - [Local Storage](201_read13.md)
+
